@@ -1,0 +1,3 @@
+rootProject.name = 'SmackMyBitchUp'
+
+include ':app'
